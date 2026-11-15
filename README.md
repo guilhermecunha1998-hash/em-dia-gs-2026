@@ -49,8 +49,6 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 | 🎬 Storyboard da jornada (oito quadros) | [`Storyboard.md`](Storyboard.md) · [`Storyboard/`](Storyboard/) |
 | 🎤 Apresentação e roteiro do vídeo de pitch | [`Pitch/`](Pitch/) |
 
-As quatro partes seguem a ordem pedida no roteiro da disciplina.
-
 ---
 
 ## 🔁 Modelagem de processos (BPMN)
