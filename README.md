@@ -1,21 +1,24 @@
-# Em Dia
+# 🏛️ Em Dia: Global Solution 2026.2
 
 > **Um pedido. Todas as pendências. Um plano.**
 > A CitizenTech que descobre tudo o que trava a vida do cidadão com o governo, no município, no estado e na União, e resolve num plano só.
 
-Projeto da **Global Solution 2026.2** da FIAP, desafio CitizenTech, desenvolvido para a disciplina **Business Systems Planning, Analysis & Design** (Prof. Me. Junior Freitas de Amaral), turma 2SIZ de Sistemas de Informação.
+---
+
+## 📌 Sobre o projeto
+
+Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir papéis e esperar, e cada órgão resolve só a sua parte: o Poupatempo manda procurar a PGE, a PGE emite a guia, o DETRAN só conclui depois. Com o **Em Dia** ele pede uma vez (texto ou voz), vê em segundos tudo o que o impede nas três esferas, recebe um plano em linguagem simples, paga num único Pix repassado a cada órgão e, quando precisa ir ao posto, já chega com a senha.
+
+| | |
+| :--- | :--- |
+| **Disciplina** | Business Systems Planning, Analysis & Design |
+| **Professor** | Me. Junior Freitas de Amaral |
+| **Curso / turma** | Sistemas de Informação · 2SIZ · FIAP |
+| **Desafio** | CitizenTech · Global Solution 2026.2 |
 
 ---
 
-## O problema que resolvemos
-
-Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir papéis e esperar. E cada órgão resolve só a sua parte: o Poupatempo manda procurar a PGE, a PGE emite a guia, o DETRAN só conclui depois. Uma dívida antiga de IPVA pode custar três idas ao posto e dias de trabalho perdidos.
-
-Com o Em Dia, a pessoa pede uma vez, por texto ou voz, e vê em segundos tudo o que a impede nas três esferas de governo. Recebe um plano em linguagem simples, paga num único Pix repassado a cada órgão e, quando precisa ir ao posto, já chega com a senha.
-
----
-
-## Equipe Em Dia
+## 👥 Equipe Em Dia
 
 | Nome | RM |
 | :--- | :---: |
@@ -25,32 +28,32 @@ Com o Em Dia, a pessoa pede uma vez, por texto ou voz, e vê em segundos tudo o 
 
 ---
 
-## Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-- **Aplicação:** Java, banco de dados Oracle e testes com JUnit
-- **Acesso e pagamento:** conta gov.br e Pix
-- **Inteligência artificial supervisionada:** interpreta o pedido e explica as opções; nunca decide nem paga sozinha
-- **Modelagem e prototipação:** Bizagi Modeler (BPMN 2.0), Pencil e Scrum
-- **Privacidade:** LGPD por padrão, com consentimento por órgão e registro de todo acesso
+- **Back-end:** Java · **Banco:** Oracle · **Testes:** JUnit
+- **Autenticação e pagamento:** conta gov.br · Pix
+- **IA supervisionada:** interpreta o pedido e explica opções; nunca decide nem paga sozinha
+- **Modelagem e prototipação:** Bizagi Modeler (BPMN 2.0) · Pencil (Evolus) · Scrum
+- **Rede (simulação):** Cisco Packet Tracer · **Privacidade:** LGPD por padrão
 
 ---
 
-## O que está neste repositório
+## 📂 Documentos do projeto
 
-| Conteúdo | Onde está |
+| Etapa | Arquivo |
 | :--- | :--- |
-| Documento completo da entrega, em PDF (capa, planejamento, processos, protótipo, storyboard e referências) | [`Em_Dia_Entrega_Final.pdf`](Em_Dia_Entrega_Final.pdf) |
-| Planejamento do projeto: ciclo de vida, abordagem ágil, Scrum, backlog, sprints, tripla restrição e ODS | [`Planejamento_do_Projeto.md`](Planejamento_do_Projeto.md) |
-| Modelagem dos processos em BPMN: como é hoje e como fica com o Em Dia | [`Modelagem_de_Processos.md`](Modelagem_de_Processos.md) e a pasta [`Modelagem_de_Processos`](Modelagem_de_Processos/) com o modelo do Bizagi (`.bpm`), os arquivos BPMN 2.0 e as imagens |
-| Protótipo das telas feito no Pencil | [`Prototipo_de_Telas.md`](Prototipo_de_Telas.md) e a pasta [`Prototipo_de_Telas`](Prototipo_de_Telas/) com o arquivo do Pencil (`.epgz`) e as telas exportadas |
-| Storyboard da jornada, em oito quadros | [`Storyboard.md`](Storyboard.md) e a pasta [`Storyboard`](Storyboard/) |
-| Apresentação e roteiro do vídeo de pitch | pasta [`Pitch`](Pitch/) |
+| 📄 Documento completo da entrega (capa, planejamento, processos, protótipo, storyboard e referências) | [`Em_Dia_Entrega_Final.pdf`](Em_Dia_Entrega_Final.pdf) |
+| 🗂️ Planejamento do projeto: ciclo de vida, abordagem ágil, Scrum, backlog, sprints, tripla restrição e ODS | [`Planejamento_do_Projeto.md`](Planejamento_do_Projeto.md) |
+| 🔁 Modelagem de processos em BPMN (como é hoje e como fica com o Em Dia) | [`Modelagem_de_Processos.md`](Modelagem_de_Processos.md) · [`Em_Dia_Modelo_Bizagi.bpm`](Modelagem_de_Processos/Em_Dia_Modelo_Bizagi.bpm) · [`.bpmn`](Modelagem_de_Processos/) |
+| 📱 Protótipo das telas no Pencil | [`Prototipo_de_Telas.md`](Prototipo_de_Telas.md) · [`Em_Dia_Prototipo.epgz`](Prototipo_de_Telas/Em_Dia_Prototipo.epgz) |
+| 🎬 Storyboard da jornada (oito quadros) | [`Storyboard.md`](Storyboard.md) · [`Storyboard/`](Storyboard/) |
+| 🎤 Apresentação e roteiro do vídeo de pitch | [`Pitch/`](Pitch/) |
 
-As quatro partes seguem a ordem pedida no roteiro da disciplina (entregáveis 1 a 4).
+As quatro partes seguem a ordem pedida no roteiro da disciplina.
 
 ---
 
-## Como o processo muda
+## 🔁 Modelagem de processos (BPMN)
 
 **Hoje: transferência de um veículo arrematado em leilão, sem o Em Dia**
 
@@ -62,19 +65,19 @@ As quatro partes seguem a ordem pedida no roteiro da disciplina (entregáveis 1 
 
 ---
 
-## As telas
+## 📱 Protótipo no Pencil
 
-| Início e pedido | Autorização | Diagnóstico |
+| Tela 1 · Início e pedido | Tela 2 · Autorização | Tela 3 · Diagnóstico |
 | :---: | :---: | :---: |
-| ![Início](Prototipo_de_Telas/telas/Tela_01_Inicio@2x.png) | ![Autorização](Prototipo_de_Telas/telas/Tela_02_Autorizacao@2x.png) | ![Diagnóstico](Prototipo_de_Telas/telas/Tela_03_Diagnostico@2x.png) |
+| ![Tela 1](Prototipo_de_Telas/telas/Tela_01_Inicio@2x.png) | ![Tela 2](Prototipo_de_Telas/telas/Tela_02_Autorizacao@2x.png) | ![Tela 3](Prototipo_de_Telas/telas/Tela_03_Diagnostico@2x.png) |
 
-| Plano | Pagamento único | Acompanhamento |
+| Tela 4 · Plano | Tela 5 · Pagamento único | Tela 6 · Acompanhamento |
 | :---: | :---: | :---: |
-| ![Plano](Prototipo_de_Telas/telas/Tela_04_Plano@2x.png) | ![Pagamento](Prototipo_de_Telas/telas/Tela_05_Pagamento@2x.png) | ![Acompanhamento](Prototipo_de_Telas/telas/Tela_06_Acompanhamento@2x.png) |
+| ![Tela 4](Prototipo_de_Telas/telas/Tela_04_Plano@2x.png) | ![Tela 5](Prototipo_de_Telas/telas/Tela_05_Pagamento@2x.png) | ![Tela 6](Prototipo_de_Telas/telas/Tela_06_Acompanhamento@2x.png) |
 
 ---
 
-## A jornada em oito quadros
+## 🎬 Storyboard
 
 | | |
 | :---: | :---: |
@@ -85,10 +88,10 @@ As quatro partes seguem a ordem pedida no roteiro da disciplina (entregáveis 1 
 
 ---
 
-## Objetivos de Desenvolvimento Sustentável
+## 🌍 ODS
 
-| ODS | Meta | Como o Em Dia contribui |
+| ODS | Meta | Contribuição do Em Dia |
 | :--- | :--- | :--- |
-| **10** Redução das desigualdades | 10.2 | O pedido em linguagem simples e por voz, a senha digital e o plano explicado tiram do cidadão o custo de entender a burocracia |
-| **9** Indústria, inovação e infraestrutura | 9.c | Conecta a infraestrutura pública que já existe (gov.br, Pix e as bases dos órgãos) e funciona em celulares básicos |
-| **16** Paz, justiça e instituições eficazes | 16.6, 16.9 e 16.10 | Cada consulta fica registrada e visível ao cidadão, e as três esferas respondem como um Estado só |
+| **10** Redução das desigualdades | 10.2 | Pedido em linguagem simples e por voz, senha digital e plano explicado tiram do cidadão o custo de entender a burocracia |
+| **9** Indústria, inovação e infraestrutura | 9.c | Conecta a infraestrutura pública que já existe (gov.br, Pix, bases dos órgãos); funciona em celulares básicos |
+| **16** Paz, justiça e instituições eficazes | 16.6 · 16.9 · 16.10 | Cada consulta é registrada e visível ao cidadão; as três esferas respondem como um Estado só |
