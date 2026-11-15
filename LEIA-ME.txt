@@ -1,12 +1,9 @@
 EM DIA - Global Solution 2026.2 - Business Systems Planning, Analysis & Design
 Equipe Em Dia (2SIZ): Guilherme da Cunha RM 567633 - Kenny Tanaka RM 567742 - Pedro Moises Pereira da Silva RM 567206
 
-GS_2026-2_Em_Dia_BSPAD.pdf ....... documento unico (capa + D1 + D2 + D3 + D4 + referencias)
-D1_Planejamento.md ............... D1 em Markdown
-D2_Modelagem_BPMN.md ............. D2 em Markdown
-D3_Prototipo_Pencil.md ........... D3 em Markdown
-D4_Storyboard.md ................. D4 em Markdown
-D2_BPMN/ ......................... Em_Dia_Processos.bpm (Bizagi Modeler, abas AS-IS e TO-BE), .bpmn (BPMN 2.0 XML) e .png
-D3_Pencil/ ....................... Em_Dia_Prototipo.epgz (documento do Pencil) e export/ (PNG e SVG exportados pelo Pencil)
-D4_Storyboard/ ................... os 8 quadros do storyboard (PNG e SVG)
-Pitch/ ........................... apresentacao e roteiro do video da Global Solution
+Em_Dia_Entrega_Final.pdf ........ documento completo (capa, planejamento, processos, prototipo, storyboard e referencias)
+Planejamento_do_Projeto.md ...... parte 1 do roteiro
+Modelagem_de_Processos.md ....... parte 2 do roteiro (texto) + pasta Modelagem_de_Processos (modelo do Bizagi .bpm, arquivos .bpmn e imagens)
+Prototipo_de_Telas.md ........... parte 3 do roteiro (texto) + pasta Prototipo_de_Telas (arquivo do Pencil .epgz e telas exportadas)
+Storyboard.md ................... parte 4 do roteiro (texto) + pasta Storyboard (oito quadros)
+Pitch/ .......................... apresentacao e roteiro do video
