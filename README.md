@@ -90,6 +90,6 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 
 | ODS | Meta | Contribuição do Em Dia |
 | :--- | :--- | :--- |
-| **10** Redução das desigualdades | 10.2 | Pedido em linguagem simples e por voz, senha digital e plano explicado tiram do cidadão o custo de entender a burocracia |
-| **9** Indústria, inovação e infraestrutura | 9.c | Conecta a infraestrutura pública que já existe (gov.br, Pix, bases dos órgãos); funciona em celulares básicos |
-| **16** Paz, justiça e instituições eficazes | 16.6 · 16.9 · 16.10 | Cada consulta é registrada e visível ao cidadão; as três esferas respondem como um Estado só |
+| **ODS 10** · Redução das desigualdades | Meta 10.2 | A burocracia pesa mais em quem tem menos tempo e acesso digital. O pedido em linguagem simples e por voz, a senha digital e o plano explicado tiram do cidadão esse custo |
+| **ODS 9** · Inovação e infraestrutura | Meta 9.c | Infraestrutura digital pública que qualquer governo reaproveita: conecta gov.br, Pix e as bases dos órgãos e funciona em celulares básicos |
+| **ODS 16** · Instituições eficazes | Metas 16.6, 16.9 e 16.10 | Órgãos que conversam, com transparência: cada consulta é registrada e visível ao cidadão, e as três esferas respondem como um Estado só |
