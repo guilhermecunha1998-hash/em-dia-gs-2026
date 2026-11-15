@@ -67,11 +67,11 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 
 | Tela 1 · Início e pedido | Tela 2 · Autorização | Tela 3 · Diagnóstico |
 | :---: | :---: | :---: |
-| ![Tela 1](Prototipo_de_Telas/telas/Tela_01_Inicio@2x.png) | ![Tela 2](Prototipo_de_Telas/telas/Tela_02_Autorizacao@2x.png) | ![Tela 3](Prototipo_de_Telas/telas/Tela_03_Diagnostico@2x.png) |
+| <img src="Prototipo_de_Telas/telas/Tela_01_Inicio@2x.png" width="250" alt="Tela 1 · Início e pedido"> | <img src="Prototipo_de_Telas/telas/Tela_02_Autorizacao@2x.png" width="250" alt="Tela 2 · Autorização"> | <img src="Prototipo_de_Telas/telas/Tela_03_Diagnostico@2x.png" width="250" alt="Tela 3 · Diagnóstico"> |
 
 | Tela 4 · Plano | Tela 5 · Pagamento único | Tela 6 · Acompanhamento |
 | :---: | :---: | :---: |
-| ![Tela 4](Prototipo_de_Telas/telas/Tela_04_Plano@2x.png) | ![Tela 5](Prototipo_de_Telas/telas/Tela_05_Pagamento@2x.png) | ![Tela 6](Prototipo_de_Telas/telas/Tela_06_Acompanhamento@2x.png) |
+| <img src="Prototipo_de_Telas/telas/Tela_04_Plano@2x.png" width="250" alt="Tela 4 · Plano"> | <img src="Prototipo_de_Telas/telas/Tela_05_Pagamento@2x.png" width="250" alt="Tela 5 · Pagamento único"> | <img src="Prototipo_de_Telas/telas/Tela_06_Acompanhamento@2x.png" width="250" alt="Tela 6 · Acompanhamento"> |
 
 ---
 
@@ -79,10 +79,10 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 
 | | |
 | :---: | :---: |
-| ![1](Storyboard/Quadro_01_Leilao.png) | ![2](Storyboard/Quadro_02_Poupatempo.png) |
-| ![3](Storyboard/Quadro_03_Pedido.png) | ![4](Storyboard/Quadro_04_Autorizacao.png) |
-| ![5](Storyboard/Quadro_05_Diagnostico.png) | ![6](Storyboard/Quadro_06_Pix_unico.png) |
-| ![7](Storyboard/Quadro_07_Documento_e_senha.png) | ![8](Storyboard/Quadro_08_Impacto.png) |
+| <img src="Storyboard/Quadro_01_Leilao.png" width="390" alt="Quadro 1"> | <img src="Storyboard/Quadro_02_Poupatempo.png" width="390" alt="Quadro 2"> |
+| <img src="Storyboard/Quadro_03_Pedido.png" width="390" alt="Quadro 3"> | <img src="Storyboard/Quadro_04_Autorizacao.png" width="390" alt="Quadro 4"> |
+| <img src="Storyboard/Quadro_05_Diagnostico.png" width="390" alt="Quadro 5"> | <img src="Storyboard/Quadro_06_Pix_unico.png" width="390" alt="Quadro 6"> |
+| <img src="Storyboard/Quadro_07_Documento_e_senha.png" width="390" alt="Quadro 7"> | <img src="Storyboard/Quadro_08_Impacto.png" width="390" alt="Quadro 8"> |
 
 ---
 
