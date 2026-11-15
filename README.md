@@ -48,7 +48,6 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 | D3 | Protótipo de telas no Pencil (6 telas) | [`D3_Prototipo_Pencil.md`](D3_Prototipo_Pencil.md) · [`Em_Dia_Prototipo.epgz`](D3_Pencil/Em_Dia_Prototipo.epgz) |
 | D4 | Storyboard digital (8 quadros) | [`D4_Storyboard.md`](D4_Storyboard.md) · [`D4_Storyboard/`](D4_Storyboard/) |
 | 🎤 Pitch | Apresentação e roteiro do vídeo | [`Pitch/`](Pitch/) |
-| 📦 Pacote | Todos os arquivos nativos em um ZIP | [`Em_Dia_GS2026-2_Entrega.zip`](Em_Dia_GS2026-2_Entrega.zip) |
 
 ---
 
