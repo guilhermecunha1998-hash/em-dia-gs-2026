@@ -1,0 +1,8 @@
+EM DIA - Global Solution 2026.2 - Business Systems Planning, Analysis & Design
+Equipe Em Dia (2SIZ): Guilherme da Cunha RM 567633 - Kenny Tanaka RM 567742 - Pedro Moises Pereira da Silva RM 567206
+
+GS_2026-2_Em_Dia_BSPAD.pdf ....... documento unico (capa + D1 + D2 + D3 + D4 + referencias)
+D2_BPMN/ ......................... Em_Dia_AS-IS.bpm e Em_Dia_TO-BE.bpm (Bizagi Modeler), .bpmn (BPMN 2.0 XML) e .png
+D3_Pencil/ ....................... Em_Dia_Prototipo.epgz (documento do Pencil) e export/ (PNG e SVG exportados pelo Pencil)
+D4_Storyboard/ ................... os 8 quadros do storyboard (PNG e SVG)
+Pitch/ ........................... apresentacao e roteiro do video da Global Solution
