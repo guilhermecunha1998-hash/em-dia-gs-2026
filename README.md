@@ -12,7 +12,7 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 | | |
 | :--- | :--- |
 | **Disciplina** | Business Systems Planning, Analysis & Design |
-| **Professor** | Me. Junior Freitas de Amaral |
+| **Professor** | Junior Freitas de Amaral |
 | **Curso / turma** | Sistemas de Informação · 2SIZ · FIAP |
 | **Desafio** | CitizenTech · Global Solution 2026.2 |
 
