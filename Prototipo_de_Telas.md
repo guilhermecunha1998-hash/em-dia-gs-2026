@@ -48,3 +48,4 @@ Um Pix só. O Em Dia repassa o valor a cada órgão, mostra para onde vai cada p
 ![Acompanhamento](Prototipo_de_Telas/telas/Tela_06_Acompanhamento@2x.png)
 
 O resultado: baixas confirmadas, documento liberado e, quando o serviço exige presença, a senha do Poupatempo já emitida, com horário e tempo de espera previsto. A seção "quem viu meus dados" fecha o ciclo de transparência.
+

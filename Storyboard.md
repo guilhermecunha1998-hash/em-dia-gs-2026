@@ -49,3 +49,4 @@ Minutos depois, o CRLV-e 2026 aparece no app. Para o que exige presença, como a
 ![Quadro 8](Storyboard/Quadro_08_Impacto.png)
 
 Com o Em Dia, a história de Seu José vira a de Marina: o cidadão pede uma vez e o Estado, nas três esferas, resolve junto. Menos filas e dias perdidos, mais gente regular e mais arrecadação recuperada.
+

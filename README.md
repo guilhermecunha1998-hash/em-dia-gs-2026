@@ -93,3 +93,4 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 | **ODS 10** · Redução das desigualdades | Meta 10.2 | A burocracia pesa mais em quem tem menos tempo e acesso digital. O pedido em linguagem simples e por voz, a senha digital e o plano explicado tiram do cidadão esse custo |
 | **ODS 9** · Inovação e infraestrutura | Meta 9.c | Infraestrutura digital pública que qualquer governo reaproveita: conecta gov.br, Pix e as bases dos órgãos e funciona em celulares básicos |
 | **ODS 16** · Instituições eficazes | Metas 16.6, 16.9 e 16.10 | Órgãos que conversam, com transparência: cada consulta é registrada e visível ao cidadão, e as três esferas respondem como um Estado só |
+

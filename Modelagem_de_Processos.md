@@ -38,3 +38,4 @@ O mesmo objetivo, com a plataforma consultando os órgãos e cuidando de pagamen
 | Dois retornos e até três idas ao posto. | Uma ida, opcional e já com senha, só quando a lei exige presença. |
 | Pagamentos separados, em sites e guias diferentes. | Um Pix, repassado a cada órgão, com comprovante por órgão e baixa automática. |
 | Nenhuma visibilidade de quem consultou os dados do cidadão. | Registro de acessos (LGPD) visível em "quem viu meus dados". |
+

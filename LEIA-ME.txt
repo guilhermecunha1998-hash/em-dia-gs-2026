@@ -7,3 +7,4 @@ Modelagem_de_Processos.md ....... parte 2 do roteiro (texto) + pasta Modelagem_d
 Prototipo_de_Telas.md ........... parte 3 do roteiro (texto) + pasta Prototipo_de_Telas (arquivo do Pencil .epgz e telas exportadas)
 Storyboard.md ................... parte 4 do roteiro (texto) + pasta Storyboard (oito quadros)
 Pitch/ .......................... apresentacao e roteiro do video
+
