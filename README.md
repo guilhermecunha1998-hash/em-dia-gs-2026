@@ -47,7 +47,15 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 | 🔁 Modelagem de processos em BPMN (como é hoje e como fica com o Em Dia) | [`Modelagem_de_Processos.md`](Modelagem_de_Processos.md) · [`Em_Dia_Modelo_Bizagi.bpm`](Modelagem_de_Processos/Em_Dia_Modelo_Bizagi.bpm) · [`.bpmn`](Modelagem_de_Processos/) |
 | 📱 Protótipo das telas no Pencil | [`Prototipo_de_Telas.md`](Prototipo_de_Telas.md) · [`Em_Dia_Prototipo.epgz`](Prototipo_de_Telas/Em_Dia_Prototipo.epgz) |
 | 🎬 Storyboard da jornada (oito quadros) | [`Storyboard.md`](Storyboard.md) · [`Storyboard/`](Storyboard/) |
-| 🎤 Apresentação e roteiro do vídeo de pitch | [`Pitch/`](Pitch/) |
+| 🎤 Vídeo de pitch, apresentação e roteiro | [Assistir no YouTube](https://www.youtube.com/watch?v=AiBvizYnln4) · [`Pitch/`](Pitch/) |
+
+---
+
+## 🎥 Pitch
+
+[![Vídeo de pitch do Em Dia](https://img.youtube.com/vi/AiBvizYnln4/hqdefault.jpg)](https://www.youtube.com/watch?v=AiBvizYnln4)
+
+Assista ao pitch do projeto: https://www.youtube.com/watch?v=AiBvizYnln4
 
 ---
 
