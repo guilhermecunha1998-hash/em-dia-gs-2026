@@ -51,14 +51,6 @@ Hoje o cidadão descobre a pendência no guichê, depois de agendar, reunir pap�
 
 ---
 
-## 🎥 Pitch
-
-[![Vídeo de pitch do Em Dia](https://img.youtube.com/vi/AiBvizYnln4/hqdefault.jpg)](https://www.youtube.com/watch?v=AiBvizYnln4)
-
-Assista ao pitch do projeto: https://www.youtube.com/watch?v=AiBvizYnln4
-
----
-
 ## 🔁 Modelagem de processos (BPMN)
 
 **Hoje: transferência de um veículo arrematado em leilão, sem o Em Dia**
